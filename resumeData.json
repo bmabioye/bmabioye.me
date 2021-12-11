@@ -1,0 +1,199 @@
+{
+  "main": {
+    "name":"Babatunde Abioye",
+    "description":"I am a technology consultant cum web developer with years of experience in ITops, clouds solutions and blockchain technology. I excelled in remote technical support role, IT training, and business management",
+    "image":"profilepic.jpg",
+    "bio":"A passionate technology enthusiast, eager to gain experience in business development, artificial intelligence, blockchain and cloud solutions. 10+ years experienced in information technology inclined settings, a serial entrepreneur and business management consultant, involved in operational cost reduction, facilitating increased productivity, and suggesting improvement on procedures",
+    "contactmessage":"Are you looking for partnership or have you a project at hand and need an exceptional team player? Let's get talking.",
+    "email": "bmabioye@gmail.com  https://linkedin.com/in/bmabioye",
+    "phone": "+971-5284-21748",
+    "github":"https://linkedin.com/in/bmabioye",
+    "project":"https://github.com/bmabioye/",
+    "address":{
+      "street":"Hamdan City ",
+      "city":"Abu Dhabi ",
+      "state":"United Arab Emirate",
+      "zip": "49153"
+    },
+    "website": "http://www.bmabioye.me",
+    "resumedownload":"http://bmabioye.me/bma-cv.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://about.me/bmabioye",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/bmabioye",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/bmabioye",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/bmabioye",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/bmabioye",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"A brief highlight of my skills and career summary",
+    "education":[
+      {
+        "school":"Quantic School of Business & Technology",
+        "degree":"Masters in Business Administration",
+        "graduated":"Feb 2023",
+        "description":"Business Accounting, Cultural Intelligence, Marketing and Startup"
+      },
+      {
+        "school":"Federal University of Technology, Minna",
+        "degree":"Bachelor in Computer Science & Mathematics",
+        "graduated":"March 2011",
+        "description":"Information Management, Software Design, Computer Installation, Operation Research"
+      }
+    ],
+    "work":[
+      {
+        "company":"GeeXse International",
+        "title":"CEO | Founder",
+        "years":"November 2021 - Present",
+        "description":"Initiated an IT firm to fill a gap in web3 technology solutions and offer exceptional training service."
+      },
+      {
+        "company":"XPL Developers",
+        "title":"Advisor | Support Specialist",
+        "years":"March 2020 - February 2021",
+        "description":"Overhauled the obsolete IT infrastructure, researched security concerns, inefficiencies and restructured on-premises workloads which resulted in a 45% improvement in the department’s operation output"
+      }
+    ],
+    "certifications":[
+      {
+        "school":"Microsoft",
+        "degree":"Microsoft Azure Administrator Associate",
+        "graduated":"June 2021",
+        "description":"Credential ID: H851-4382"
+      },
+      {
+        "school":"CompTIA",
+        "degree":"CompTIA A+ Ce",
+        "graduated":"March 2021",
+        "description":"Credential ID: 4D3JD6ZN5KE41ECP http://verify.CompTIA.org"
+      },
+      {
+        "school":"Google",
+        "degree":"Google IT Support Professional",
+        "graduated":"March 2021",
+        "description":"Credential ID: DS4QEE9SHJYW"
+      },
+      {
+        "school":"LinkedIn",
+        "degree":"Building RESTful API",
+        "graduated":"September 2021",
+        "description":"https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express"
+      },
+      {
+        "school":"CodeCademy",
+        "degree":"JavaScript Certificate",
+        "graduated":"April 2021",
+        "description":"https://www.codecademy.com/profiles/bmabioye/certificates/705dcb15de0da4dd9d9fc4f3274b430e"
+      },
+      {
+        "school":"CodeCademy",
+        "degree":"Expesss Certificate",
+        "graduated":"April 2021",
+        "description":"https://www.codecademy.com/profiles/bmabioye/certificates/85396dd6e2e850ab34e904243aa464c6"
+      }
+    ],
+    "skills":[
+      {
+        "name":"ITOps",
+        "level":"75%"
+      },
+      {
+        "name":"Cloud Operation",
+        "level":"55%"
+      },
+      {
+        "name":"IT Service Management",
+        "level":"65%"
+      },
+      {
+        "name":"Business Management",
+        "level":"90%"
+      },
+      {
+        "name":"Technical Support",
+        "level":"80%"
+      },
+      {
+        "name":"Programming",
+        "level":"50%"
+      },
+      {
+        "name":"Training",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"CodeITClean",
+        "category":"The clean code campaign company for african child",
+        "image":"geexse.jpg",
+        "url":"https://www.codeitclean.com"
+      },
+      {
+        "title":"GeeXse International",
+        "category":"The 'X' service company I started in 2021",
+        "image":"dev-learning.jpg",
+        "url":"http://www.geexse.com"
+      },
+      {
+        "title":"Lovelamp Systems",
+        "category":"A React based resume website template",
+        "image":"lovelampsys.jpg",
+        "url":"http://www.lovelampsys.com"
+      },
+      {
+        "title":"Exclusive Platform",
+        "category":"(MVP Only) A Blockchain Project I partake in.",
+        "image":"xpl.jpg",
+        "url":"https://exclusiveplatform.com"
+      },
+      {
+        "title":"Containerized User Profile",
+        "category":"A Simple containerized App build in  JavaScript and Express",
+        "image":"coding.png",
+        "url":"https://github.com/bmabioye/userprofile-docker.git"
+      },
+      {
+        "title":"Country Kitchen",
+        "category":"Website I built for a restaurant I like in Nigeria",
+        "image":"countrykitchen.jpg",
+        "url":"http://www.cksosweet.com"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A Personal React based resume website ",
+        "image":"resumesite.jpg",
+        "url":"http://www.bmabioye.me"
+      },
+      {
+        "title":"Business Management App",
+        "category":"A WebApp I orchestrated using Laravel Framework",
+        "image":"app-sample.jpg",
+        "url":"http://www.bmabioye.me"
+      }
+    ]
+  }
+}
